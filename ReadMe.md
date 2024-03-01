@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a Pre Final Year student at the Indian Institute of Technology Jodhpur.<br>I want to dive deep into the field of BackEnd Development, Authentication, and Security.<br>I am currently learning the concepts of Spring Boot and Spring Framework for building the BackEnd in Java.<br>My hobbies include binge-watching Netflix and web series and movies and playing Cricket and Badminton.<br>
+I'm currently a Pre Final Year student at the Indian Institute of Technology Jodhpur.<br>I want to dive deep into the field of BackEnd Development, Authentication, and Security.<br>My hobbies include binge-watching Netflix and web series and movies and playing Cricket and Badminton.<br>
 
 
 ## 🌐 Socials:
